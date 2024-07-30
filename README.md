@@ -4,10 +4,8 @@ This project implements a decentralized message queue using Hyperswarm by Holepu
 
 ### Installation
 
-1. **Download the zip file.**
-2. **Extract the contents of the zip file.**
-3. **Navigate to the folder labeled `tether-assignment`.**
-4. **Run:**
+1. **Clone the Repo.**
+2. **Run:**
 
    ```bash
    npm install
